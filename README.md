@@ -7,3 +7,6 @@ Features to be added:
 -Quadratic calculations (possibility of higher polynomial support)
 -Random number generation
 
+
+
+Support for polynomials requested
