@@ -8,5 +8,5 @@ Features to be added:
 -Random number generation
 
 
-
+Support for polynomials requested
 Support for polynomials requested
